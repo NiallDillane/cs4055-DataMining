@@ -1,2 +1,3 @@
 .ipynb_checkpoints/
 datasets/russian-ad-datasets-master/
+*.zip
